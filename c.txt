@@ -1,1 +1,2 @@
 I am file C.
+I am C edited file.
